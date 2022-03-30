@@ -28,10 +28,10 @@ Pour aborder cette problématique, il est primordial d’avoir une DataSet. Pour
 
 Par la suite, il faut développer les étapes suivantes :
 
-- [ ] Charger les images.
-- [ ] Penser à redimensionner les images selon le modèle VGG16.
-- [ ] Splitter les données en données d’apprentissage, validation et test.
-- [ ] Visualiser les images de la classe Avec_Masque et Sans_Masque.
+- [x] Charger les images.
+- [x] Penser à redimensionner les images selon le modèle VGG16.
+- [x] Splitter les données en données d’apprentissage, validation et test.
+- [x] Visualiser les images de la classe Avec_Masque et Sans_Masque.
 ​
 
 ## Partie 2 : Architecture CNN sur Tensorflow​
