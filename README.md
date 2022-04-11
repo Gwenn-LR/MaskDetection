@@ -38,12 +38,12 @@ Par la suite, il faut développer les étapes suivantes :
 
 Cette deuxième partie est réservée pour développer le modèle CNN sur tensorflow, et lancée par la suite l’apprentissage de CNN.
 
-- [ ] Au début, il faut préparer et appliquer la Data Augmentation sur les données d’apprentissage.
-- [ ] Charger et configurer le modèle VGG16 pour l’application souhaitée.
-- [ ] Appeler le ModelCheckpoint pour sauvgarder le meilleurs modèle durant l’apprentissage (from keras.callbacks import ModelCheckpoint)
-- [ ] Lancer un apprentissage en utilisant les données d’apprentissage et les données de validation avec un historique.
-- [ ] Tracer les courbes d’accuracy et d’erreur de train et validation.
-- [ ] Calculer l’accuracy et la matrice de confusion sur les données de test.
+- [x] Au début, il faut préparer et appliquer la Data Augmentation sur les données d’apprentissage.
+- [x] Charger et configurer le modèle VGG16 pour l’application souhaitée.
+- [x] Appeler le ModelCheckpoint pour sauvgarder le meilleurs modèle durant l’apprentissage (from keras.callbacks import ModelCheckpoint)
+- [x] Lancer un apprentissage en utilisant les données d’apprentissage et les données de validation avec un historique.
+- [x] Tracer les courbes d’accuracy et d’erreur de train et validation.
+- [x] Calculer l’accuracy et la matrice de confusion sur les données de test.
 
 
 ## Partie 3 : Application
@@ -64,17 +64,17 @@ Le projet est réalisé en groupe de 2 personnes.
 
 # Critères de performance
 
-- [ ] Le code doit être bien structuré
-- [ ] Le bon choix du modèle CNN.
-- [ ] Le bon fonctionnement de l'Application demandée.
+- [x] Le code doit être bien structuré
+- [x] Le bon choix du modèle CNN.
+- [x] Le bon fonctionnement de l'Application demandée.
 
 
 # Modalités d'évaluation
 
-- [ ] Un rapport sur le projet réalisé qui explique les différentes étapes du code
-- [ ] Description des données
-- [ ] Présentation de l'architecture utilisée
-- [ ] Conclusion (avantages et inconvénients, concurrents, recommandations…)
+- [x] Un rapport sur le projet réalisé qui explique les différentes étapes du code
+- [x] Description des données
+- [x] Présentation de l'architecture utilisée
+- [x] Conclusion (avantages et inconvénients, concurrents, recommandations…)
 - [ ] Revue de code avec le formateur.
 
 
@@ -82,7 +82,7 @@ Le projet est réalisé en groupe de 2 personnes.
 
 Un dépôt GitHub avec :
 
-- [ ] Un Notebook bien structuré/organisé qui réalise les différentes étapes de ce projet.
-- [ ] Un rapport sur le projet réalisé qui explique les différentes étapes du code (Description des données, présentation de l'architecture utilisée, résultats de l'apprentissage et de test, conclusion, recommandations ...).
-- [ ] Le modèle VGG16.h5
-- [ ] Un Readme.md pour mettre en avant votre projet.
+- [x] Un Notebook bien structuré/organisé qui réalise les différentes étapes de ce projet.
+- [x] Un rapport sur le projet réalisé qui explique les différentes étapes du code (Description des données, présentation de l'architecture utilisée, résultats de l'apprentissage et de test, conclusion, recommandations ...).
+- [x] Le modèle VGG16.h5
+- [x] Un Readme.md pour mettre en avant votre projet.
